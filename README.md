@@ -5,4 +5,4 @@
 
 
 ### 📃 Descrição
-O objetivo dos exercícios propostos é a fixação de conhecimento por meio da prática. Para o ensino do paradigma orientada ao objeto, foi-se utilizado a linguagem C++.
+O objetivo dos exercícios propostos é a fixação de conhecimento por meio da prática. Para o ensino do paradigma orientada a objetos, foi-se utilizado a linguagem C++.
